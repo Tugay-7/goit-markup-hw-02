@@ -4,7 +4,7 @@
 
 /* Global Styles */
 body {
-  font-family: 'Raleway', 'Roboto', sans-serif;
+  font-family:'Railway','Roboto', sans-serif;
   color: #434455; /* Updated text color */
   background-color: #fff;
   margin: 0;
@@ -12,8 +12,8 @@ body {
   line-height: 1.6;
 }
 
-.raleway {
-  font-family: 'Raleway', sans-serif;
+.railway {
+  font-family: 'Railway', sans-serif;
 }
 
 .roboto {
@@ -21,7 +21,7 @@ body {
 }
 
 h1, h2, h3 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Railway', sans-serif;
 }
 
 h1 {
