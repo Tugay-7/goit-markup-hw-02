@@ -83,7 +83,21 @@ body {
   color: #2e2f42;
 }
 
-.service-heading,
+.approach-heading {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.approach-description {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .team-heading {
   font-weight: 500;
   font-size: 20px;
@@ -92,7 +106,6 @@ body {
   color: #2e2f42;
 }
 
-.service-description,
 .team-description {
   font-size: 16px;
   line-height: 1.5;
@@ -102,6 +115,11 @@ body {
 
 .team-item {
   background-color: #FFFFFF;
+}
+
+.team-list {
+  display: flex;
+  justify-content: space-between;
 }
 
 .portfolio-heading {
