@@ -83,9 +83,14 @@ body {
   letter-spacing: 0.04em;
 }
 
-.cta-button:hover,
+.cta-button:hover {
+  background-color: #404BBF;
+  color: #ffffff;
+}
+
 .cta-button:focus {
   background-color: #404BBF;
+  color: #ffffff;
 }
 
 .second-section {
@@ -223,13 +228,17 @@ button {
   color: #fff;
   border: none;
   padding: 0.5em 1em;
-  border-radius: 4px;
   transition: background-color 0.3s;
 }
 
-button:hover,
+button:hover {
+  background-color: #404BBF;
+  color: #ffffff;
+}
+
 button:focus {
   background-color: #404BBF;
+  color: #ffffff;
 }
 
 /* Portfolio Section */
