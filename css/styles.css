@@ -301,12 +301,3 @@ button:hover,
 button:focus {
   color: #0056b3;
 }
-
-/* Second Section Styles */
-section:nth-of-type(2) ul {
-  flex-direction: row;
-}
-
-section:nth-of-type(2) ul li {
-  flex: 1 1 calc(25% - 1em);
-}
