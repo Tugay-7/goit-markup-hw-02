@@ -83,6 +83,11 @@ body {
   letter-spacing: 0.04em;
 }
 
+.cta-button:hover,
+.cta-button:focus {
+  background-color: #404BBF;
+}
+
 .second-section {
   background-color: #f4f4fd;
 }
@@ -224,7 +229,7 @@ button {
 
 button:hover,
 button:focus {
-  background-color: #0056b3;
+  background-color: #404BBF;
 }
 
 /* Portfolio Section */
