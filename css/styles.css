@@ -79,28 +79,25 @@ body {
 }
 
 .button {
-    background-color: #4d5ae5;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;  
-    cursor: pointer;
-  }
-  
-  .button:hover {
-    background-color: #404bbf;  
-    color: #ffffff;  
-  }
-  
-  .button:focus {
-    background-color: #404bbf;  
-    color: #ffffff;  
-  }
-  
-  
+  background-color: #4D5AE5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
 
+.button:hover {
+  background-color: #404BBF;
+  color: #ffffff;
+}
+
+.button:focus {
+  background-color: #404BBF;
+  color: #ffffff;
+}
 
 .second-section {
   background-color: #f4f4fd;
@@ -210,6 +207,16 @@ a {
 
 button {
   cursor: pointer;
+}
+
+button:hover {
+  background-color: #404BBF;
+  color: #ffffff;
+}
+
+button:focus {
+  background-color: #404BBF;
+  color: #ffffff;
 }
 
 /* Header Styles */
