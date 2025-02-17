@@ -1,6 +1,5 @@
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700&display=swap');
 
 /* Global Styles */
 body {
@@ -21,20 +20,18 @@ body {
 }
 
 .logo-link {
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5; /* Web kısmı için renk */
-    font-weight: 700;
-  }
-  
-  .studio-text {
-    color: #2e2f42; /* Studio kısmı için renk */
-  }
-  
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  font-weight: 700;
+}
 
+.studio-text {
+  color: #2e2f42;
+}
 
 .footer-studio-text {
   color: #f4f4fd;
@@ -93,13 +90,13 @@ body {
 }
 
 .cta-button:hover {
-    background-color: #404BBF;
-    color: #ffffff;
+  background-color: #404BBF;
+  color: #ffffff;
 }
 
 .cta-button:focus {
-    background-color: #404BBF;
-    color: #ffffff;
+  background-color: #404BBF;
+  color: #ffffff;
 }
 
 .second-section {
@@ -314,26 +311,6 @@ section ul li img {
 .footer-studio-text {
   color: #f4f4fd;
 }
-
-/* Logo ve <span> İçin Stiller */
-.logo-link {
-    font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    font-weight: 700;  /* Burada logo için kalın yazı tipini ayarladık */
-  }
-  
-  /* studio-text sınıfı için renk belirleme */
-.logo-link .studio-text {
-    color: #ffffff;  /* Burada istediğiniz rengi atıyorsunuz */
-  }
-  
-  
-  
-  
 
 /* Interactive Elements */
 a:hover,
