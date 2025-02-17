@@ -298,9 +298,22 @@ section ul li img {
   letter-spacing: 0.02em;
 }
 
-.studio-text {
-  color: #2e2f42;
-}
+/* Logo ve <span> İçin Stiller */
+.logo-link {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    font-weight: 700;  /* Burada logo için kalın yazı tipini ayarladık */
+  }
+  
+  .studio-text {
+    color: #2e2f42;  /* Burada <span> elementine renk atıyoruz */
+  }
+  
+  
 
 /* Interactive Elements */
 a:hover,
