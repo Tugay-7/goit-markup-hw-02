@@ -93,13 +93,13 @@ body {
 }
 
 .cta-button:hover {
-  color: #ffffff;
-  background-color: #404BBF;
+    background-color: #404BBF;
+    color: #ffffff;
 }
 
 .cta-button:focus {
-  color: #ffffff;
-  background-color: #404BBF;
+    background-color: #404BBF;
+    color: #ffffff;
 }
 
 .second-section {
