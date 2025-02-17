@@ -89,11 +89,11 @@ body {
   cursor: pointer;
 }
 
-.first-section .button:hover {
+.first-section button:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
-.first-section .button:focus {
+.first-section button:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
