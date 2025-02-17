@@ -309,9 +309,12 @@ section ul li img {
     font-weight: 700;  /* Burada logo için kalın yazı tipini ayarladık */
   }
   
-  .studio-text {
-    color: #2e2f42;  /* Burada <span> elementine renk atıyoruz */
+  /* studio-text sınıfı için renk belirleme */
+.logo-link .studio-text {
+    color: #ffffff;  /* Burada istediğiniz rengi atıyorsunuz */
   }
+  
+  
   
   
 
