@@ -34,6 +34,10 @@ body {
   color: #2e2f42;
 }
 
+.footer-studio-text {
+  color: #f4f4fd;
+}
+
 .nav-link {
   font-weight: 500;
   font-size: 16px;
@@ -297,6 +301,14 @@ section ul li img {
   line-height: 1.5;
   color: #F4F4FD;
   letter-spacing: 0.02em;
+}
+
+.studio-text {
+  color: #2e2f42;
+}
+
+.footer-studio-text {
+  color: #f4f4fd;
 }
 
 /* Logo ve <span> İçin Stiller */
