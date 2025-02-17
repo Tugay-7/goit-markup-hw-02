@@ -78,25 +78,25 @@ body {
   color: #ffffff;
 }
 
-.cta-button {
+.button {
     background-color: #4d5ae5;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #ffffff;  /* Varsayılan metin rengi */
+    color: #ffffff;  
     cursor: pointer;
   }
   
-  .cta-button:hover {
-    background-color: #404bbf;  /* Hover durumunda arka plan rengini değiştir */
-    color: #ffffff;  /* Hover durumunda metin rengini beyaz yap */
+  .button:hover {
+    background-color: #404bbf;  
+    color: #ffffff;  
   }
   
-  .cta-button:focus {
-    background-color: #404bbf;  /* Focus durumunda arka plan rengini değiştir */
-    color: #ffffff;  /* Focus durumunda metin rengini beyaz yap */
+  .button:focus {
+    background-color: #404bbf;  
+    color: #ffffff;  
   }
   
   
