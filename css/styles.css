@@ -78,7 +78,7 @@ body {
   color: #ffffff;
 }
 
-.cta-button {
+.button {
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -89,12 +89,12 @@ body {
   cursor: pointer;
 }
 
-.first-section-content .cta-button:hover {
+.first-section-content .button:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
 
-.first-section-content .cta-button:focus {
+.first-section-content .button:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
