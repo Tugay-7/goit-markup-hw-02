@@ -298,6 +298,10 @@ section ul li img {
   letter-spacing: 0.02em;
 }
 
+.studio-text {
+  color: #2e2f42;
+}
+
 /* Interactive Elements */
 a:hover,
 a:focus,
