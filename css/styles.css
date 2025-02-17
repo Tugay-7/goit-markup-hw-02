@@ -78,7 +78,7 @@ body {
   color: #ffffff;
 }
 
-.button {
+.cta-button {
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -89,12 +89,12 @@ body {
   cursor: pointer;
 }
 
-.button:hover {
+.first-section-content .cta-button:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
 
-.button:focus {
+.first-section-content .cta-button:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
@@ -203,20 +203,6 @@ ul {
 a {
   text-decoration: none;
   color: inherit;
-}
-
-button {
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #404BBF;
-  color: #ffffff;
-}
-
-button:focus {
-  background-color: #404BBF;
-  color: #ffffff;
 }
 
 /* Header Styles */
