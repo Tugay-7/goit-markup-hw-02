@@ -88,16 +88,18 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
 }
 
 .cta-button:hover {
-  background-color: #404BBF;
   color: #ffffff;
+  background-color: #404BBF;
 }
 
 .cta-button:focus {
-  background-color: #404BBF;
   color: #ffffff;
+  background-color: #404BBF;
 }
 
 .second-section {
