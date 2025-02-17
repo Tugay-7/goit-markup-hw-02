@@ -21,18 +21,20 @@ body {
 }
 
 .logo-link {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-  font-weight: 700;
-}
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5; /* Web kısmı için renk */
+    font-weight: 700;
+  }
+  
+  .studio-text {
+    color: #2e2f42; /* Studio kısmı için renk */
+  }
+  
 
-.studio-text {
-  color: #2e2f42;
-}
 
 .footer-studio-text {
   color: #f4f4fd;
