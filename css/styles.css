@@ -77,7 +77,7 @@ body {
   color: #ffffff;
 }
 
-.first-section .button-Section-1 {
+.first-section .button-Section-first {
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -88,11 +88,11 @@ body {
   cursor: pointer;
 }
 
-.first-section .button-Section-1:hover {
+.first-section .button-Section-first:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
-.first-section .button-Section-1:focus {
+.first-section .button-Section-first:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
@@ -219,19 +219,19 @@ section {
   margin-bottom: 2em;
 }
 
-buttonSection1 {
+button-Section-first {
   background-color: #007bff;
   color: #fff;
   border: none;
   transition: background-color 0.3s;
 }
 
-button-Section-1:hover {
+button-Section-first:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
 
-button-Section-1:focus {
+button-Section-first:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
@@ -294,7 +294,7 @@ section ul li img {
 /* Interactive Elements */
 a:hover,
 a:focus,
-button-Section-1:hover,
-button-Section-1:focus {
+button-Section-first:hover,
+button-Section-first:focus {
   color: #0056b3;
 }
