@@ -228,7 +228,7 @@ section {
   margin-bottom: 2em;
 }
 
-button {
+buttonsection1 {
   background-color: #007bff;
   color: #fff;
   border: none;
@@ -236,12 +236,12 @@ button {
   transition: background-color 0.3s;
 }
 
-button:hover {
+buttonsection1:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
 
-button:focus {
+buttonsection1:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
@@ -306,7 +306,7 @@ section ul li img {
 /* Interactive Elements */
 a:hover,
 a:focus,
-button:hover,
-button:focus {
+buttonsection1:hover,
+buttonsection1:focus {
   color: #0056b3;
 }
