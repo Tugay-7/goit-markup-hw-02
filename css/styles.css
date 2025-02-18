@@ -7,7 +7,6 @@ body {
   color: #434455;
   background-color: #fff;
   margin: 0;
-  padding: 0;
   line-height: 1.6;
 }
 
@@ -150,7 +149,6 @@ body {
 }
 
 .team-list {
-  display: flex;
   justify-content: space-between;
 }
 
@@ -196,7 +194,6 @@ h3 {
 
 ul {
   list-style-type: none;
-  padding: 0;
 }
 
 a {
@@ -207,22 +204,16 @@ a {
 /* Header Styles */
 header {
   background-color: #f8f8f8;
-  padding: 1em 0;
 }
 
 nav a {
   font-weight: 700;
 }
 
-nav ul {
-  display: flex;
-  gap: 1em;
-}
+
 
 /* Main Content Styles */
-main {
-  padding: 2em;
-}
+
 
 section {
   margin-bottom: 2em;
@@ -232,7 +223,6 @@ buttonSection1 {
   background-color: #007bff;
   color: #fff;
   border: none;
-  padding: 0.5em 1em;
   transition: background-color 0.3s;
 }
 
@@ -252,9 +242,7 @@ section h2 {
 }
 
 section ul {
-  display: flex;
   flex-wrap: wrap;
-  gap: 1em;
 }
 
 section ul li {
