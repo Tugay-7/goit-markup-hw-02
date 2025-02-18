@@ -77,7 +77,7 @@ body {
   color: #ffffff;
 }
 
-.first-section .button-Section-first {
+.first-section .btn_submit_form {
   background-color: #4D5AE5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -88,11 +88,11 @@ body {
   cursor: pointer;
 }
 
-.first-section .button-Section-first:hover {
+.first-section .btn_submit_form:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
-.first-section .button-Section-first:focus {
+.first-section .btn_submit_form:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
@@ -219,19 +219,19 @@ section {
   margin-bottom: 2em;
 }
 
-button-Section-first {
+btn_submit_form {
   background-color: #007bff;
   color: #fff;
   border: none;
   transition: background-color 0.3s;
 }
 
-button-Section-first:hover {
+btn_submit_form:hover {
   background-color: #404BBF;
   color: #ffffff;
 }
 
-button-Section-first:focus {
+btn_submit_form:focus {
   background-color: #404BBF;
   color: #ffffff;
 }
@@ -294,7 +294,7 @@ section ul li img {
 /* Interactive Elements */
 a:hover,
 a:focus,
-button-Section-first:hover,
-button-Section-first:focus {
+btn_submit_form:hover,
+btn_submit_form:focus {
   color: #0056b3;
 }
